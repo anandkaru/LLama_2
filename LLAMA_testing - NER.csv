@@ -1,0 +1,51 @@
+Sentence,NER
+" Sarah Adams, a 42-year-old woman with a history of asthma and seasonal allergies, visited the primary care clinic complaining of persistent cough, shortness of breath, and wheezing for the past two weeks, which worsened during the night. She denied any fever, chest pain, or significant sputum production. On examination, decreased breath sounds and prolonged expiration were noted. Peak expiratory flow rate (PEFR) was significantly reduced compared to her baseline. A chest X-ray revealed hyperinflation and flattened diaphragms. Given the clinical presentation, a history of asthma, and objective findings, she was diagnosed with an acute exacerbation of asthma. The patient was administered inhaled short-acting beta-agonists, corticosteroids, and oxygen therapy, and she was provided with an asthma action plan for home management.
+"," Patient Record: Robert Johnson, 35 years
+     Injury: Deep laceration on left forearm
+     Cause of Injury: Work-related accident involving a power tool
+     Symptoms: Pain and numbness in affected area
+     Examination Findings: Damage to radial nerve, presence of foreign debris
+     Treatment Plan: Surgical intervention, tetanus prophylaxis, broad-spectrum antibiotics
+     Vital Signs: Blood pressure 120/80 mm Hg, heart rate 80 beats per minute "
+"Mr. James Anderson, a 58-year-old male with a medical history significant for hypertension, hyperlipidemia, and type 2 diabetes, was admitted to the hospital following an episode of acute chest pain radiating to the left arm, associated with diaphoresis and shortness of breath. The patient reported these symptoms persisted for approximately 45 minutes before subsiding. On admission, his blood pressure was elevated at 170/100 mm Hg, and an electrocardiogram (ECG) showed significant ST-segment elevation in multiple leads, indicating an acute myocardial infarction (MI). Troponin levels were markedly elevated. Mr. Anderson was promptly taken to the catheterization lab, where coronary angiography revealed a severe blockage in the left anterior descending coronary artery. Percutaneous coronary intervention (PCI) was successfully performed, and a drug-eluting stent was placed to restore blood flow. Post-PCI, the patient was started on dual antiplatelet therapy, high-intensity statin, and an angiotensin-converting enzyme inhibitor. He also received lifestyle modification counseling and cardiac rehabilitation recommendations. During his hospital stay, his blood pressure was well controlled, and he remained free of chest pain. Mr. Anderson was discharged with a comprehensive cardiac care plan, including close outpatient follow-up, dietary guidelines, and instructions for medication management
+"," Patient Record: Mr. James Anderson, 58 years
+     Diagnosis: Acute myocardial infarction
+     Medical History: Hypertension, hyperlipidemia, and type 2 diabetes
+     Symptoms: Chest pain radiating to the left arm, diaphoresis, and shortness of breath
+     Procedures: Coronary angiography and percutaneous coronary intervention (PCI)
+     Medications: Dual antiplatelet therapy, high-intensity statin, and an angiotensin-converting enzyme inhibitor
+     Lifestyle Modifications: Dietary guidelines and instructions for medication management
+     Outcome: Well-controlled blood pressure and resolution of chest pain during hospital stay"
+"Dr. Rajesh Sharma, a renowned cardiologist, conducted a comprehensive examination of Ms. Deepika Verma, a 45-year-old woman from Delhi. Ms. Verma had a history of diabetes, and she came to the clinic complaining of persistent dizziness and occasional chest discomfort. She reported experiencing these symptoms over the past month, primarily during strenuous activities. On examination, her blood pressure was found to be elevated at 150/90 mm Hg, and Dr. Sharma detected a cardiac murmur during auscultation. An electrocardiogram (ECG) revealed irregular heart rhythms, and an echocardiogram confirmed the presence of mitral valve regurgitation. Dr. Sharma discussed the diagnosis with Ms. Verma and recommended a follow-up appointment to discuss treatment options, which may include medical management or surgical intervention."," Patient Record: Ms. Deepika Verma, 45 years
+     Doctor: Dr. Rajesh Sharma
+     Diagnosis: Irregular heart rhythm and mitral valve regurgitation
+     Medical History: Diabetes
+     Symptoms: Persistent dizziness and occasional chest discomfort
+     Examination Findings: Elevated blood pressure and cardiac murmur
+     Test Results: Irregular heart rhythms on ECG and mitral valve regurgitation on echocardiogram
+     Treatment Options: Medical management or surgical intervention"
+"Dr. Ananya Patel, a specialist in internal medicine, encountered a complex case when Mr. Rahul Malik, a 55-year-old man from Mumbai, was referred to her clinic. Mr. Malik had a medical history marked by hypertension, type 2 diabetes, and a previous diagnosis of gout. He presented with a multitude of symptoms, including joint pain and swelling in his left big toe, episodes of severe abdominal pain, and a persistent cough with yellow-green sputum production. He reported experiencing these symptoms over the past year. On examination, Dr. Patel noted tenderness in the left big toe, and laboratory tests revealed elevated uric acid levels consistent with a gout flare. Further investigation into his abdominal pain and cough revealed an abdominal aortic aneurysm and chronic obstructive pulmonary disease (COPD). Mr. Malik was started on colchicine for gout, and he was referred to a vascular surgeon for evaluation and potential intervention regarding the aneurysm. Dr. Patel also initiated bronchodilator therapy to manage the COPD and advised lifestyle modifications to address all three conditions, emphasizing the importance of diet, exercise, and smoking cessation."," Patient Record: Mr. Rahul Malik, 55 years
+     Diagnosis: Gout, Abdominal Aortic Aneurysm, Chronic Obstructive Pulmonary Disease (COPD)
+     Medical History: Hypertension, Type 2 Diabetes
+     Symptoms: Joint pain and swelling in left big toe, Episodes of severe abdominal pain, Persistent cough with yellow-green sputum production
+     Medications: Colchicine
+     Specialist Referral: Vascular Surgeon
+     Lifestyle Modifications: Diet, Exercise, Smoking Cessation"
+"Dr. Surya Gupta, a senior pulmonologist, was presented with a challenging case when Mr. Ramesh Kapoor, a 67-year-old retired teacher from Chennai, was admitted to the hospital. Mr. Kapoor had a complex medical history, including a previous diagnosis of chronic obstructive pulmonary disease (COPD) and coronary artery disease (CAD) for which he had undergone coronary artery bypass graft (CABG) surgery five years ago. He presented with a constellation of symptoms, including progressive shortness of breath, frequent coughing with excessive sputum production, and angina-like chest pain. These symptoms had worsened over the past six months, with associated weight loss and fatigue. On examination, Dr. Gupta noted decreased breath sounds, bilateral wheezing, and diminished heart sounds. An arterial blood gas analysis confirmed severe hypoxemia. A chest X-ray revealed hyperinflation and diffuse bilateral lung opacities, suggestive of COPD exacerbation, but the cardiac component of his symptoms could not be overlooked. Electrocardiography showed new-onset ST-segment depression, raising concerns about potential CAD progression. Given these complex issues, Dr. Gupta coordinated with a multidisciplinary team to address Mr. Kapoor's conditions. He was promptly started on oxygen therapy, bronchodilators, and systemic corticosteroids to manage the COPD exacerbation. Simultaneously, cardiology was consulted for further assessment of the potential CAD progression. The team recommended cardiac catheterization, which revealed significant stenosis in multiple coronary arteries. Mr. Kapoor underwent a percutaneous coronary intervention (PCI) with stent placement to address the coronary issues. Post-procedure, he was closely monitored, and his angina resolved. Dr. Gupta provided comprehensive education on medication adherence, pulmonary rehabilitation, and cardiac risk factor management. The patient was referred for regular follow-up with both cardiology and pulmonology departments to ensure holistic care and optimize his long-term prognosis."," Patient Record: Mr. Ramesh Kapoor, 67 years
+     Diagnosis: Chronic obstructive pulmonary disease (COPD), Coronary artery disease (CAD)
+     Medical History: Previous diagnosis of COPD and CAD, undergone coronary artery bypass graft (CABG) surgery five years ago
+     Symptoms: Progressive shortness of breath, frequent coughing with excessive sputum production, angina-like chest pain
+     Examination: Decreased breath sounds, bilateral wheezing, diminished heart sounds
+     Test Results: Arterial blood gas analysis, chest X-ray
+     Treatment: Oxygen therapy, bronchodilators, systemic corticosteroids, cardiac catheterization, percutaneous coronary intervention (PCI)
+     Medications: None specified
+     Follow-up: Regular follow-up with both cardiology and pulmonology departments"
+" Subcutaneous ulnar nerve transposition.  A curvilinear incision was made over the medial elbow, starting proximally at the medial intermuscular septum, curving posterior to the medial epicondyle, then curving anteriorly along the path of the ulnar nerve.  Dissection was carried down to the ulnar nerve. "," Patient Record: 23-year-old white female
+     Diagnosis: Allergic rhinitis
+     Medical History: Allergies
+     Symptoms: Complaint of allergies
+     Medications: Ortho Tri-Cyclen, Allegra
+     Allergies: None
+     Objective: Vitals, HEENT, Neck, Lungs, Assessment, Plan
+
+    Please note that the entities listed above are based on the information provided in the text and may not be exhaustive or entirely accurate. Also, please keep in mind that the task of entity extraction can be challenging and requires careful analysis of the text to identify relevant information."
